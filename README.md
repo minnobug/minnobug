@@ -1,10 +1,11 @@
-# Hi, I'm **Le Van Minh** — a Data Engineer from Vietnam 🇻🇳
+# Hi, I'm **Le Van Minh** — a **Data Engineer** from **Vietnam** 🇻🇳
 
 <p align="center">
   <a href="https://www.vietnam.vn" target="_blank">
     <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fb-1f1f3.svg" alt="Vietnam" width="50" height="50"/>
   </a>
 </p>
+
 
 ## 🛠️ Skills & Tools
 
