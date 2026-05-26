@@ -1,6 +1,5 @@
-## Hi, I'm **Le Van Minh** — a **Data Engineer** from **Vietnam** 🇻🇳
+My name is Le Van Minh and I'm a **Data Engineer** from **Vietnam**.
 
-<br>
 
 <p align="center">
   <a href="https://www.vietnam.vn" target="_blank">
@@ -8,7 +7,6 @@
   </a>
 </p>
 
-<br>
 
 ## 🛠️ Skills & Tools
 
