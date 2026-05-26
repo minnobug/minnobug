@@ -1,4 +1,4 @@
-I'm **Le Van Minh** — a Data Engineer from Vietnam 🇻🇳
+# Hi, I'm **Le Van Minh** — a Data Engineer from Vietnam 🇻🇳
 
 <p align="center">
   <a href="https://www.vietnam.vn" target="_blank">
@@ -25,24 +25,29 @@ I'm **Le Van Minh** — a Data Engineer from Vietnam 🇻🇳
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Libraries**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🚀 Featured Projects
 
 ### 📈 Vietnam Stock Market ELT Pipeline
+
 > ELT pipeline for HOSE & HNX — collecting OHLC price data and news sentiment analysis using Python, PostgreSQL, dbt, and Metabase.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minnobug/stock-data-pipeline)
 
 ### 🚗 Smart City Data Pipeline
+
 > Real-time IoT data pipeline for vehicle telemetry streaming analytics using Kafka, Spark & AWS.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minnobug/smartcity-data-pipeline)
