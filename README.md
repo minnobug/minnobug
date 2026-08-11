@@ -1,4 +1,4 @@
-My name is Le Van Minh and I'm a **Data Engineer** from **Vietnam**.
+My name is Le Van Minh and I'm from **Vietnam**.
 
 
 <p align="center">
